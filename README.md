@@ -1,1 +1,2 @@
-# Travel-Web-with-HTML-CSS-Javascript
+# Travel Web
+## Using: HTML, CSS and Javascript
