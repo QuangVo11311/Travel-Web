@@ -141,7 +141,7 @@ form button:hover {
     border: 1px solid var(--main-color);
     color: var(--main-color);
 }
-/*---------------------------Địa điểm du lịch nổi bật------------------------------------*/
+/*---------------------Địa điểm du lịch nổi bật và About us phần chung------------------*/
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -257,3 +257,20 @@ form button:hover {
     margin: 20px 0;
     font-family: var(--subtext);
 }
+
+.service {
+    margin-top: 30px;
+}
+
+.service-item {
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    background-color: #b6dcec;
+}
+
+.service-item image {
+    width: 15px;
+    margin-bottom: 6px;
+}
+
